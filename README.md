@@ -1,4 +1,4 @@
-# Model Predictive Control (MATLAB & Simulink)
+<img width="747" height="53" alt="image" src="https://github.com/user-attachments/assets/57e386b1-da21-493e-8cdf-bdf748972cde" /># Model Predictive Control (MATLAB & Simulink)
 
 ##  Description
 This project implements Model Predictive Control (MPC) using MATLAB and Simulink for controlling dynamic systems and optimizing system performance.
@@ -24,3 +24,7 @@ Model Predictive Control (MPC) is an advanced control strategy that predicts fut
 ##  Structure
 - `matlab/` → MATLAB scripts
 - `simulink/` → Simulink models
+
+## Course
+CONTROL SYSTEMS FOR AUTONOMOUS GROUND VEHICLES 
+
